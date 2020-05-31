@@ -1,0 +1,10 @@
+#Sun May 31 21:56:18 EET 2020
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=F\:\\New Projects\\corona police\\project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.1=F\:\\New Projects\\corona police\\project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.0=F\:\\New Projects\\corona police\\project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
